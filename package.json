@@ -7,7 +7,7 @@
   "bugs": {
     "url": "https://github.com/cobraz/nextjs-test/issues"
   },
-  "repository": "github:cobraz/nextjs-oidc-react",
+  "repository": "github:simenandre/nextjs-oidc-react",
   "license": "ISC",
   "author": "",
   "main": "index.js",
